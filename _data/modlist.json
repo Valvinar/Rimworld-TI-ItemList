@@ -3,25 +3,19 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.3.0.0"
-  },
-  {
-    "author": "Samboy063",
-    "name": "BetterLoading",
-    "steamId": "1999454301",
-    "version": "3.3.0.0"
+    "version": "1.5.0.0"
   },
   {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "9.0.1"
+    "version": "10.0.1"
   },
   {
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.4.4.0"
+    "version": "3.5.2.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -45,7 +39,13 @@
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
-    "version": "1.0.8216.42657"
+    "version": "1.0.8420.33175"
+  },
+  {
+    "author": "Razor 2.3",
+    "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "VouLT",
@@ -60,16 +60,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "targhetti",
-    "name": "Show Draftees Weapon",
-    "steamId": "1690978457",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.3.3136.1"
+    "version": "1.4.3607.2"
   },
   {
     "author": "Fluffy",
@@ -81,13 +75,37 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.1.48"
+    "version": "1.0.8391.36780"
   },
   {
     "author": "TheWireLord",
     "name": "Conduit Deconstruct",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "TDS Bug Fixes",
+    "steamId": "2895035527",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "TD Find Lib",
+    "steamId": "2895299310",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Ctrl F",
+    "steamId": "2895300634",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Custom Alerts",
+    "steamId": "2895301341",
+    "version": "1.0.0.0"
   },
   {
     "author": "fyarn",
@@ -105,7 +123,7 @@
     "author": "jecrell and contributors",
     "name": "JecsTools",
     "steamId": "932008009",
-    "version": "1.3.0.4"
+    "version": "1.4.1.1"
   },
   {
     "author": "EdB",
@@ -116,8 +134,8 @@
   {
     "author": "Falconne",
     "name": "Better Workbench Management",
-    "steamId": "935982361",
-    "version": "0.5.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Uuugggg",
@@ -145,27 +163,21 @@
   },
   {
     "author": "Falconne",
-    "name": "Heat Map",
+    "name": "Heat Map (Continued)",
     "steamId": null,
     "version": null
   },
   {
     "author": "Vaniat",
-    "name": "Incident Person Stat",
-    "steamId": "1414697588",
-    "version": "1.0.0.0"
+    "name": "Incident Person Stat (Continued)",
+    "steamId": "2896052868",
+    "version": "1.4.1"
   },
   {
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
-    "version": "2.4.0.0"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "List Everything",
-    "steamId": "1706669545",
-    "version": "1.0.0.0"
+    "version": "2.5.0.0"
   },
   {
     "author": "Uuugggg",
@@ -189,13 +201,25 @@
     "author": "Mehni",
     "name": "Numbers",
     "steamId": "1414302321",
-    "version": "1.1.0.0"
+    "version": "1.0.0"
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
     "version": "1.0.0"
+  },
+  {
+    "author": "Madara Uchiha",
+    "name": "Prisoners Need Recruiting",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "legodude17",
@@ -207,31 +231,25 @@
     "author": "Hatti",
     "name": "QualityBuilder",
     "steamId": "754637870",
-    "version": "1.0.15"
-  },
-  {
-    "author": "Sandy",
-    "name": "RPG Style Inventory",
-    "steamId": "1561221991",
-    "version": "1.0.0.0"
+    "version": "1.0.17"
   },
   {
     "author": "Ratys",
     "name": "RT Fuse",
     "steamId": "728314182",
-    "version": "1.5.0.0"
+    "version": "1.6.0.0"
   },
   {
     "author": "Lucifer",
     "name": "Realistic Rooms Rewritten",
-    "steamId": null,
-    "version": null
+    "steamId": "2558042766",
+    "version": "1.0.0.0"
   },
   {
     "author": "AUTOMATIC",
-    "name": "Recipe icons",
-    "steamId": "1616643195",
-    "version": "1.0.379.0018"
+    "name": "Recipe icons (Continued)",
+    "steamId": "2904906618",
+    "version": "1.4.2"
   },
   {
     "author": "Uuugggg",
@@ -253,7 +271,7 @@
   },
   {
     "author": "Match",
-    "name": "Roof Support 1.3",
+    "name": "Roof Support 1.4",
     "steamId": null,
     "version": null
   },
@@ -266,8 +284,8 @@
   {
     "author": "Falconne",
     "name": "Room Sense",
-    "steamId": null,
-    "version": null
+    "steamId": "1355637255",
+    "version": "0.5.0.0"
   },
   {
     "author": "Roolo and Updated by Ogliss",
@@ -330,12 +348,6 @@
     "version": "1.3.8.0"
   },
   {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.5.7.6"
-  },
-  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -351,7 +363,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.7"
+    "version": "6.3.0.0.biotech.b6"
   },
   {
     "author": "saschahi",
@@ -396,22 +408,10 @@
     "version": null
   },
   {
-    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
-    "name": "[KV] More Trait Slots",
-    "steamId": "1508292711",
-    "version": "1.0.7862.37403"
-  },
-  {
-    "author": "Kiame Vivacity",
-    "name": "[KV] RimFridge",
-    "steamId": "1180721235",
-    "version": "1.2.1.0"
-  },
-  {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Trading Spot",
-    "steamId": "1180719658",
-    "version": "1.0.0.0"
+    "author": "erdelf (original) & Kiame (support)",
+    "name": "[KV] Don't stop the music",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Syrchalis",
